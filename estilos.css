@@ -1,0 +1,113 @@
+.fondodom
+{
+    position: absolute;
+width: 1440px;
+height: 135px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+
+.domt
+{
+    position: absolute;
+    width: 348px;
+    height: 44px;
+    left: 546px;
+    top: 45px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.datosdom
+{
+    position: absolute;
+width: 1440px;
+height: 149px;
+left: -2px;
+top: 198px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+}
+
+.fondodefiniciones
+{
+    position: absolute;
+width: 1440px;
+height: 135px;
+left: -10px;
+top: 410px;
+
+background: #000000;
+}
+
+.definicionest
+{
+    position: absolute;
+    width: 148px;
+    height: 29px;
+    left: 646px;
+    top: 463px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.datosdefiniciones1
+{
+    position: absolute;
+    width: 677px;
+    height: 363px;
+    left: 14px;
+    top: 618px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.datosdefiniciones2
+{
+    position: absolute;
+width: 701px;
+height: 478px;
+left: 720px;
+top: 652px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+}
